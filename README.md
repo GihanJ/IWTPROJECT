@@ -1,2 +1,2 @@
 # IWTPROJECT
-![Alt text](https://raw.github.com/GihanJ/IWTPROJECT/master/images/camping.jpg)
+![Alt text](https://raw.github.com/GihanJ/IWTPROJECT/master/Images/camping.jpg)
